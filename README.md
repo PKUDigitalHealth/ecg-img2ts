@@ -52,7 +52,7 @@ Prerequisites
 
 Scripts
 
-pdf_to_image.py Converts source ECG files from PDF to PNG format. • Batch Processing:
+ - pdf_to_image.py Converts source ECG files from PDF to PNG format. • Batch Processing:
 
  - 6x2_dig.py : Script for processing 6x2 layout ECGs.
 
